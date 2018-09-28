@@ -1,3 +1,3 @@
 #VShirokov.github.io
 
-Мой сайт
+https://vshirokov.github.io/
